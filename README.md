@@ -1,2 +1,2 @@
 # visa-aplication
-Visa application management was created using Java. It is a console application.
+A console application for "Visa application management" created using Java.
